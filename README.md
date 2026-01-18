@@ -49,8 +49,8 @@ npm 或 yarn
 ### 2. 一键启动
 ```bash
 # 克隆
-git clone https://github.com/your-username/rental-contract-analyzer.git
-cd rental-contract-analyzer
+git clone https://github.com/your-username/rental-contract-analyzer.git](https://github.com/fangxianxing/vibing-coding-Kimi2-.git
+cd vibing-coding-Kimi2-
 
 # 安装依赖
 npm install        # 或 yarn
